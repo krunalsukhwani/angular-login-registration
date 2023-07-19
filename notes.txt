@@ -8,3 +8,5 @@ css type -> scss
 ng g c login
 ng g c register
 ng g c home
+
+npm install bootstrap

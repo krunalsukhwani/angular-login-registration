@@ -1,0 +1,10 @@
+Frontend:
+npm install -g @angular/cli
+
+ng new front-end
+routing-> yes
+css type -> scss
+
+ng g c login
+ng g c register
+ng g c home
